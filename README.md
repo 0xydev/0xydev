@@ -5,4 +5,4 @@
   <img alt="My contribution graph as a living koi pond" src="https://raw.githubusercontent.com/0xydev/0xydev/output/koipond-light.svg">
 </picture>
 
-<sub>The pond above is my contribution graph. Fish graze my commits as plankton, a turtle shows up for 30+ day streaks. Generated daily by <a href="https://github.com/0xydev/koipond">koipond</a> 🎏</sub>
+<sub>Made with <a href="https://github.com/0xydev/koipond">koipond</a>, a project of mine 🎏</sub>
